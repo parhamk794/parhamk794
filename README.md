@@ -8,6 +8,9 @@
 <h2 align="center">Hi there👋I'm Parham☕</h2>
 
 
+<p align="center">python developer 🐍, video games lover Except Overrated strategy  🎮😶,Follower of new technologies and interested in the world of computers🖥🛠  ,Traveling even with a backpack✈️🌏</p>
+
+
 
 
 

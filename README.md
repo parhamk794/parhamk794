@@ -36,6 +36,7 @@
 
 <a href="https://www.youtube.com/@parhamk794"><img src="https://github.com/parhamk794/parhamk794/blob/main/img/youtube.png?raw=true"></a>
 
+<a href="https://t.me/parhambozorge"><img src="https://github.com/parhamk794/parhamk794/blob/main/img/telegram.png?raw=true"></a>
 
 
 

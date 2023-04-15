@@ -32,7 +32,7 @@
 
 <h2 align="center">Contact Me 📞:</h2>
 
-<a href="https://www.youtube.com/@parhamk794"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>     <a href="https://t.me/parhambozorge"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.youtube.com/@parhamk794"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>     <a href="https://t.me/parhambozorge"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
 
 
 

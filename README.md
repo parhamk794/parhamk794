@@ -1,7 +1,8 @@
 # Now You See Me!
 
 
-<img aling="center" src="https://user-images.githubusercontent.com/111304851/230764352-76469637-bb0c-4493-be86-c61fb28210e4.svg">
+![programmer-programming](https://user-images.githubusercontent.com/111304851/232979018-bdfa6bf4-63d7-4a4d-82a2-e0415210846d.gif)
+
 
 
 <h2 align="center">Hi there👋I'm Parham☕</h2>
